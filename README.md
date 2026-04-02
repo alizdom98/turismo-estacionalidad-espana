@@ -36,7 +36,7 @@ turismo_estacionalidad_project/
 │   ├── 02_importar_datos.sql        -- 7 staging tables + instrucciones de importación
 │   ├── 03_transformar_datos.sql     -- ETL: 7 transformaciones + limpieza + verificación
 │   └── 04_analisis.sql              -- 11 queries de análisis con resultados documentados
-├── data/
+├── data_raw/                        -- CSVs originales del INE (sin modificar)
 │   ├── datos_trimestrales_gasto_nacional.csv
 │   ├── motivos_turistas_residentes.csv
 │   ├── alojamiento_turistas_residentes.csv
@@ -44,6 +44,17 @@ turismo_estacionalidad_project/
 │   ├── gasto_turistas_extranjeros.csv
 │   ├── plazas_establecimientos.csv
 │   └── tipos_alojamiento_CC.AA.csv
+├── data_clean/                      -- Tablas exportadas tras el ETL (input del modelo Power BI)
+│   ├── dim_CC.AA.csv
+│   ├── gasto_trimestral_nacional.csv
+│   ├── turismo_extranjeros_motivos.csv
+│   ├── turismo_residentes.csv
+│   ├── gasto_turistas_extranjeros.csv
+│   ├── oferta_alojamiento.csv
+│   └── demanda_alojamiento.csv
+├── assets/
+│   └── screenshots/                 -- Capturas del dashboard para la documentación
+├── proyecto_estacionalidad.pbix     -- Dashboard Power BI (conecta a PostgreSQL)
 └── README.md
 ```
 
