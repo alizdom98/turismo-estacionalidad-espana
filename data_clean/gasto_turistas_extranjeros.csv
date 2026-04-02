@@ -1,0 +1,717 @@
+id;id_ccaa;destino;metrica;anio;valor
+1;1;Andalucía;Gasto total;2025;20032.82
+2;1;Andalucía;Gasto total;2024;18460.33
+3;1;Andalucía;Gasto total;2023;15314.99
+4;1;Andalucía;Gasto total;2022;11989.59
+5;1;Andalucía;Gasto total;2021;4768.27
+6;1;Andalucía;Gasto total;2020;2875.13
+7;1;Andalucía;Gasto total;2019;12412.97
+8;1;Andalucía;Gasto total;2018;12641.38
+9;1;Andalucía;Gasto total;2017;12672.87
+10;1;Andalucía;Gasto total;2016;11318.92
+11;1;Andalucía;Gasto medio por persona;2025;1388.00
+12;1;Andalucía;Gasto medio por persona;2024;1360.00
+13;1;Andalucía;Gasto medio por persona;2023;1256.00
+14;1;Andalucía;Gasto medio por persona;2022;1198.00
+15;1;Andalucía;Gasto medio por persona;2021;1122.00
+16;1;Andalucía;Gasto medio por persona;2020;1065.00
+17;1;Andalucía;Gasto medio por persona;2019;1032.00
+18;1;Andalucía;Gasto medio por persona;2018;1082.00
+19;1;Andalucía;Gasto medio por persona;2017;1100.00
+20;1;Andalucía;Gasto medio por persona;2016;1069.00
+21;1;Andalucía;Gasto medio diario por persona;2025;178.00
+22;1;Andalucía;Gasto medio diario por persona;2024;167.00
+23;1;Andalucía;Gasto medio diario por persona;2023;154.00
+24;1;Andalucía;Gasto medio diario por persona;2022;137.00
+25;1;Andalucía;Gasto medio diario por persona;2021;114.00
+26;1;Andalucía;Gasto medio diario por persona;2020;113.00
+27;1;Andalucía;Gasto medio diario por persona;2019;124.00
+28;1;Andalucía;Gasto medio diario por persona;2018;121.00
+29;1;Andalucía;Gasto medio diario por persona;2017;115.00
+30;1;Andalucía;Gasto medio diario por persona;2016;110.00
+31;1;Andalucía;Duración media de los viajes;2025;7.82
+32;1;Andalucía;Duración media de los viajes;2024;8.17
+33;1;Andalucía;Duración media de los viajes;2023;8.18
+34;1;Andalucía;Duración media de los viajes;2022;8.76
+35;1;Andalucía;Duración media de los viajes;2021;9.84
+36;1;Andalucía;Duración media de los viajes;2020;9.45
+37;1;Andalucía;Duración media de los viajes;2019;8.31
+38;1;Andalucía;Duración media de los viajes;2018;8.98
+39;1;Andalucía;Duración media de los viajes;2017;9.56
+40;1;Andalucía;Duración media de los viajes;2016;9.68
+41;2;Aragón;Gasto total;2025;670.76
+42;2;Aragón;Gasto total;2024;480.59
+43;2;Aragón;Gasto total;2023;389.77
+44;2;Aragón;Gasto total;2022;296.42
+45;2;Aragón;Gasto total;2021;142.64
+46;2;Aragón;Gasto total;2020;95.62
+47;2;Aragón;Gasto total;2019;366.31
+48;2;Aragón;Gasto total;2018;361.18
+49;2;Aragón;Gasto total;2017;415.78
+50;2;Aragón;Gasto total;2016;439.20
+51;2;Aragón;Gasto medio por persona;2025;979.00
+52;2;Aragón;Gasto medio por persona;2024;960.00
+53;2;Aragón;Gasto medio por persona;2023;913.00
+54;2;Aragón;Gasto medio por persona;2022;770.00
+55;2;Aragón;Gasto medio por persona;2021;661.00
+56;2;Aragón;Gasto medio por persona;2020;556.00
+57;2;Aragón;Gasto medio por persona;2019;672.00
+58;2;Aragón;Gasto medio por persona;2018;662.00
+59;2;Aragón;Gasto medio por persona;2017;714.00
+60;2;Aragón;Gasto medio por persona;2016;742.00
+61;2;Aragón;Gasto medio diario por persona;2025;150.00
+62;2;Aragón;Gasto medio diario por persona;2024;154.00
+63;2;Aragón;Gasto medio diario por persona;2023;124.00
+64;2;Aragón;Gasto medio diario por persona;2022;134.00
+65;2;Aragón;Gasto medio diario por persona;2021;105.00
+66;2;Aragón;Gasto medio diario por persona;2020;97.00
+67;2;Aragón;Gasto medio diario por persona;2019;110.00
+68;2;Aragón;Gasto medio diario por persona;2018;96.00
+69;2;Aragón;Gasto medio diario por persona;2017;95.00
+70;2;Aragón;Gasto medio diario por persona;2016;94.00
+71;2;Aragón;Duración media de los viajes;2025;6.53
+72;2;Aragón;Duración media de los viajes;2024;6.22
+73;2;Aragón;Duración media de los viajes;2023;7.36
+74;2;Aragón;Duración media de los viajes;2022;5.74
+75;2;Aragón;Duración media de los viajes;2021;6.29
+76;2;Aragón;Duración media de los viajes;2020;5.74
+77;2;Aragón;Duración media de los viajes;2019;6.10
+78;2;Aragón;Duración media de los viajes;2018;6.93
+79;2;Aragón;Duración media de los viajes;2017;7.48
+80;2;Aragón;Duración media de los viajes;2016;7.85
+81;3;Asturias, Principado de;Gasto total;2025;501.25
+82;3;Asturias, Principado de;Gasto total;2024;434.73
+83;3;Asturias, Principado de;Gasto total;2023;453.08
+84;3;Asturias, Principado de;Gasto total;2022;345.99
+85;3;Asturias, Principado de;Gasto total;2021;182.16
+86;3;Asturias, Principado de;Gasto total;2020;109.91
+87;3;Asturias, Principado de;Gasto total;2019;302.57
+88;3;Asturias, Principado de;Gasto total;2018;319.99
+89;3;Asturias, Principado de;Gasto total;2017;310.46
+90;3;Asturias, Principado de;Gasto total;2016;315.26
+91;3;Asturias, Principado de;Gasto medio por persona;2025;1351.00
+92;3;Asturias, Principado de;Gasto medio por persona;2024;1310.00
+93;3;Asturias, Principado de;Gasto medio por persona;2023;1206.00
+94;3;Asturias, Principado de;Gasto medio por persona;2022;1278.00
+95;3;Asturias, Principado de;Gasto medio por persona;2021;1128.00
+96;3;Asturias, Principado de;Gasto medio por persona;2020;1192.00
+97;3;Asturias, Principado de;Gasto medio por persona;2019;952.00
+98;3;Asturias, Principado de;Gasto medio por persona;2018;1069.00
+99;3;Asturias, Principado de;Gasto medio por persona;2017;1115.00
+100;3;Asturias, Principado de;Gasto medio por persona;2016;997.00
+101;3;Asturias, Principado de;Gasto medio diario por persona;2025;142.00
+102;3;Asturias, Principado de;Gasto medio diario por persona;2024;132.00
+103;3;Asturias, Principado de;Gasto medio diario por persona;2023;127.00
+104;3;Asturias, Principado de;Gasto medio diario por persona;2022;112.00
+105;3;Asturias, Principado de;Gasto medio diario por persona;2021;87.00
+106;3;Asturias, Principado de;Gasto medio diario por persona;2020;112.00
+107;3;Asturias, Principado de;Gasto medio diario por persona;2019;102.00
+108;3;Asturias, Principado de;Gasto medio diario por persona;2018;101.00
+109;3;Asturias, Principado de;Gasto medio diario por persona;2017;100.00
+110;3;Asturias, Principado de;Gasto medio diario por persona;2016;85.00
+111;3;Asturias, Principado de;Duración media de los viajes;2025;9.50
+112;3;Asturias, Principado de;Duración media de los viajes;2024;9.90
+113;3;Asturias, Principado de;Duración media de los viajes;2023;9.47
+114;3;Asturias, Principado de;Duración media de los viajes;2022;11.37
+115;3;Asturias, Principado de;Duración media de los viajes;2021;13.02
+116;3;Asturias, Principado de;Duración media de los viajes;2020;10.67
+117;3;Asturias, Principado de;Duración media de los viajes;2019;9.33
+118;3;Asturias, Principado de;Duración media de los viajes;2018;10.56
+119;3;Asturias, Principado de;Duración media de los viajes;2017;11.10
+120;3;Asturias, Principado de;Duración media de los viajes;2016;11.76
+121;4;Balears, Illes;Gasto total;2025;21059.73
+122;4;Balears, Illes;Gasto total;2024;20024.71
+123;4;Balears, Illes;Gasto total;2023;17692.25
+124;4;Balears, Illes;Gasto total;2022;15221.57
+125;4;Balears, Illes;Gasto total;2021;7278.84
+126;4;Balears, Illes;Gasto total;2020;1838.85
+127;4;Balears, Illes;Gasto total;2019;14843.39
+128;4;Balears, Illes;Gasto total;2018;14757.20
+129;4;Balears, Illes;Gasto total;2017;14599.89
+130;4;Balears, Illes;Gasto total;2016;13005.65
+131;4;Balears, Illes;Gasto medio por persona;2025;1340.00
+132;4;Balears, Illes;Gasto medio por persona;2024;1308.00
+133;4;Balears, Illes;Gasto medio por persona;2023;1227.00
+134;4;Balears, Illes;Gasto medio por persona;2022;1153.00
+135;4;Balears, Illes;Gasto medio por persona;2021;1151.00
+136;4;Balears, Illes;Gasto medio por persona;2020;1068.00
+137;4;Balears, Illes;Gasto medio por persona;2019;1085.00
+138;4;Balears, Illes;Gasto medio por persona;2018;1065.00
+139;4;Balears, Illes;Gasto medio por persona;2017;1059.00
+140;4;Balears, Illes;Gasto medio por persona;2016;1001.00
+141;4;Balears, Illes;Gasto medio diario por persona;2025;214.00
+142;4;Balears, Illes;Gasto medio diario por persona;2024;203.00
+143;4;Balears, Illes;Gasto medio diario por persona;2023;189.00
+144;4;Balears, Illes;Gasto medio diario por persona;2022;173.00
+145;4;Balears, Illes;Gasto medio diario por persona;2021;159.00
+146;4;Balears, Illes;Gasto medio diario por persona;2020;140.00
+147;4;Balears, Illes;Gasto medio diario por persona;2019;162.00
+148;4;Balears, Illes;Gasto medio diario por persona;2018;156.00
+149;4;Balears, Illes;Gasto medio diario por persona;2017;144.00
+150;4;Balears, Illes;Gasto medio diario por persona;2016;137.00
+151;4;Balears, Illes;Duración media de los viajes;2025;6.27
+152;4;Balears, Illes;Duración media de los viajes;2024;6.45
+153;4;Balears, Illes;Duración media de los viajes;2023;6.49
+154;4;Balears, Illes;Duración media de los viajes;2022;6.66
+155;4;Balears, Illes;Duración media de los viajes;2021;7.22
+156;4;Balears, Illes;Duración media de los viajes;2020;7.65
+157;4;Balears, Illes;Duración media de los viajes;2019;6.69
+158;4;Balears, Illes;Duración media de los viajes;2018;6.82
+159;4;Balears, Illes;Duración media de los viajes;2017;7.34
+160;4;Balears, Illes;Duración media de los viajes;2016;7.31
+161;5;Canarias;Gasto total;2025;24405.07
+162;5;Canarias;Gasto total;2024;22874.94
+163;5;Canarias;Gasto total;2023;20332.53
+164;5;Canarias;Gasto total;2022;17452.70
+165;5;Canarias;Gasto total;2021;7186.85
+166;5;Canarias;Gasto total;2020;4823.21
+167;5;Canarias;Gasto total;2019;16854.32
+168;5;Canarias;Gasto total;2018;17112.27
+169;5;Canarias;Gasto total;2017;16783.59
+170;5;Canarias;Gasto total;2016;15070.27
+171;5;Canarias;Gasto medio por persona;2025;1555.00
+172;5;Canarias;Gasto medio por persona;2024;1502.00
+173;5;Canarias;Gasto medio por persona;2023;1457.00
+174;5;Canarias;Gasto medio por persona;2022;1416.00
+175;5;Canarias;Gasto medio por persona;2021;1367.00
+176;5;Canarias;Gasto medio por persona;2020;1274.00
+177;5;Canarias;Gasto medio por persona;2019;1282.00
+178;5;Canarias;Gasto medio por persona;2018;1244.00
+179;5;Canarias;Gasto medio por persona;2017;1181.00
+180;5;Canarias;Gasto medio por persona;2016;1137.00
+181;5;Canarias;Gasto medio diario por persona;2025;191.00
+724;19;Melilla;Gasto total;2022;21.77
+182;5;Canarias;Gasto medio diario por persona;2024;184.00
+183;5;Canarias;Gasto medio diario por persona;2023;172.00
+184;5;Canarias;Gasto medio diario por persona;2022;163.00
+185;5;Canarias;Gasto medio diario por persona;2021;152.00
+186;5;Canarias;Gasto medio diario por persona;2020;150.00
+187;5;Canarias;Gasto medio diario por persona;2019;150.00
+188;5;Canarias;Gasto medio diario por persona;2018;146.00
+189;5;Canarias;Gasto medio diario por persona;2017;138.00
+190;5;Canarias;Gasto medio diario por persona;2016;130.00
+191;5;Canarias;Duración media de los viajes;2025;8.16
+192;5;Canarias;Duración media de los viajes;2024;8.16
+193;5;Canarias;Duración media de los viajes;2023;8.46
+194;5;Canarias;Duración media de los viajes;2022;8.69
+195;5;Canarias;Duración media de los viajes;2021;8.96
+196;5;Canarias;Duración media de los viajes;2020;8.48
+197;5;Canarias;Duración media de los viajes;2019;8.53
+198;5;Canarias;Duración media de los viajes;2018;8.52
+199;5;Canarias;Duración media de los viajes;2017;8.57
+200;5;Canarias;Duración media de los viajes;2016;8.73
+201;6;Cantabria;Gasto total;2025;487.14
+202;6;Cantabria;Gasto total;2024;561.07
+203;6;Cantabria;Gasto total;2023;507.81
+204;6;Cantabria;Gasto total;2022;355.75
+205;6;Cantabria;Gasto total;2021;164.73
+206;6;Cantabria;Gasto total;2020;84.69
+207;6;Cantabria;Gasto total;2019;348.16
+208;6;Cantabria;Gasto total;2018;298.06
+209;6;Cantabria;Gasto total;2017;325.55
+210;6;Cantabria;Gasto total;2016;387.31
+211;6;Cantabria;Gasto medio por persona;2025;1131.00
+212;6;Cantabria;Gasto medio por persona;2024;1199.00
+213;6;Cantabria;Gasto medio por persona;2023;1170.00
+214;6;Cantabria;Gasto medio por persona;2022;1099.00
+215;6;Cantabria;Gasto medio por persona;2021;1030.00
+216;6;Cantabria;Gasto medio por persona;2020;796.00
+217;6;Cantabria;Gasto medio por persona;2019;887.00
+218;6;Cantabria;Gasto medio por persona;2018;782.00
+219;6;Cantabria;Gasto medio por persona;2017;882.00
+220;6;Cantabria;Gasto medio por persona;2016;952.00
+221;6;Cantabria;Gasto medio diario por persona;2025;132.00
+222;6;Cantabria;Gasto medio diario por persona;2024;143.00
+223;6;Cantabria;Gasto medio diario por persona;2023;115.00
+224;6;Cantabria;Gasto medio diario por persona;2022;126.00
+225;6;Cantabria;Gasto medio diario por persona;2021;111.00
+226;6;Cantabria;Gasto medio diario por persona;2020;73.00
+227;6;Cantabria;Gasto medio diario por persona;2019;117.00
+228;6;Cantabria;Gasto medio diario por persona;2018;103.00
+229;6;Cantabria;Gasto medio diario por persona;2017;108.00
+230;6;Cantabria;Gasto medio diario por persona;2016;92.00
+231;6;Cantabria;Duración media de los viajes;2025;8.55
+232;6;Cantabria;Duración media de los viajes;2024;8.40
+233;6;Cantabria;Duración media de los viajes;2023;10.13
+234;6;Cantabria;Duración media de los viajes;2022;8.74
+235;6;Cantabria;Duración media de los viajes;2021;9.30
+236;6;Cantabria;Duración media de los viajes;2020;10.85
+237;6;Cantabria;Duración media de los viajes;2019;7.55
+238;6;Cantabria;Duración media de los viajes;2018;7.58
+239;6;Cantabria;Duración media de los viajes;2017;8.18
+240;6;Cantabria;Duración media de los viajes;2016;10.33
+241;7;Castilla y León;Gasto total;2025;1050.76
+242;7;Castilla y León;Gasto total;2024;922.60
+243;7;Castilla y León;Gasto total;2023;777.80
+244;7;Castilla y León;Gasto total;2022;562.86
+245;7;Castilla y León;Gasto total;2021;241.56
+246;7;Castilla y León;Gasto total;2020;223.93
+247;7;Castilla y León;Gasto total;2019;654.55
+248;7;Castilla y León;Gasto total;2018;714.63
+249;7;Castilla y León;Gasto total;2017;769.37
+250;7;Castilla y León;Gasto total;2016;533.76
+251;7;Castilla y León;Gasto medio por persona;2025;720.00
+252;7;Castilla y León;Gasto medio por persona;2024;688.00
+253;7;Castilla y León;Gasto medio por persona;2023;639.00
+254;7;Castilla y León;Gasto medio por persona;2022;554.00
+255;7;Castilla y León;Gasto medio por persona;2021;484.00
+256;7;Castilla y León;Gasto medio por persona;2020;520.00
+257;7;Castilla y León;Gasto medio por persona;2019;509.00
+258;7;Castilla y León;Gasto medio por persona;2018;520.00
+259;7;Castilla y León;Gasto medio por persona;2017;569.00
+260;7;Castilla y León;Gasto medio por persona;2016;477.00
+261;7;Castilla y León;Gasto medio diario por persona;2025;151.00
+262;7;Castilla y León;Gasto medio diario por persona;2024;140.00
+263;7;Castilla y León;Gasto medio diario por persona;2023;140.00
+264;7;Castilla y León;Gasto medio diario por persona;2022;132.00
+265;7;Castilla y León;Gasto medio diario por persona;2021;107.00
+266;7;Castilla y León;Gasto medio diario por persona;2020;92.00
+267;7;Castilla y León;Gasto medio diario por persona;2019;120.00
+268;7;Castilla y León;Gasto medio diario por persona;2018;110.00
+269;7;Castilla y León;Gasto medio diario por persona;2017;101.00
+270;7;Castilla y León;Gasto medio diario por persona;2016;90.00
+271;7;Castilla y León;Duración media de los viajes;2025;4.77
+272;7;Castilla y León;Duración media de los viajes;2024;4.92
+273;7;Castilla y León;Duración media de los viajes;2023;4.57
+274;7;Castilla y León;Duración media de los viajes;2022;4.20
+275;7;Castilla y León;Duración media de los viajes;2021;4.51
+276;7;Castilla y León;Duración media de los viajes;2020;5.64
+277;7;Castilla y León;Duración media de los viajes;2019;4.26
+278;7;Castilla y León;Duración media de los viajes;2018;4.74
+279;7;Castilla y León;Duración media de los viajes;2017;5.62
+280;7;Castilla y León;Duración media de los viajes;2016;5.30
+281;8;Castilla - La Mancha;Gasto total;2025;286.19
+282;8;Castilla - La Mancha;Gasto total;2024;320.64
+283;8;Castilla - La Mancha;Gasto total;2023;236.75
+284;8;Castilla - La Mancha;Gasto total;2022;220.20
+285;8;Castilla - La Mancha;Gasto total;2021;111.00
+286;8;Castilla - La Mancha;Gasto total;2020;69.24
+287;8;Castilla - La Mancha;Gasto total;2019;223.89
+288;8;Castilla - La Mancha;Gasto total;2018;198.70
+289;8;Castilla - La Mancha;Gasto total;2017;220.20
+290;8;Castilla - La Mancha;Gasto total;2016;162.42
+291;8;Castilla - La Mancha;Gasto medio por persona;2025;1228.00
+292;8;Castilla - La Mancha;Gasto medio por persona;2024;1360.00
+293;8;Castilla - La Mancha;Gasto medio por persona;2023;1091.00
+294;8;Castilla - La Mancha;Gasto medio por persona;2022;1101.00
+295;8;Castilla - La Mancha;Gasto medio por persona;2021;1131.00
+296;8;Castilla - La Mancha;Gasto medio por persona;2020;722.00
+297;8;Castilla - La Mancha;Gasto medio por persona;2019;854.00
+298;8;Castilla - La Mancha;Gasto medio por persona;2018;846.00
+299;8;Castilla - La Mancha;Gasto medio por persona;2017;994.00
+300;8;Castilla - La Mancha;Gasto medio por persona;2016;796.00
+301;8;Castilla - La Mancha;Gasto medio diario por persona;2025;154.00
+302;8;Castilla - La Mancha;Gasto medio diario por persona;2024;136.00
+303;8;Castilla - La Mancha;Gasto medio diario por persona;2023;112.00
+304;8;Castilla - La Mancha;Gasto medio diario por persona;2022;122.00
+305;8;Castilla - La Mancha;Gasto medio diario por persona;2021;113.00
+306;8;Castilla - La Mancha;Gasto medio diario por persona;2020;89.00
+307;8;Castilla - La Mancha;Gasto medio diario por persona;2019;111.00
+308;8;Castilla - La Mancha;Gasto medio diario por persona;2018;97.00
+309;8;Castilla - La Mancha;Gasto medio diario por persona;2017;92.00
+310;8;Castilla - La Mancha;Gasto medio diario por persona;2016;98.00
+311;8;Castilla - La Mancha;Duración media de los viajes;2025;8.00
+312;8;Castilla - La Mancha;Duración media de los viajes;2024;9.98
+313;8;Castilla - La Mancha;Duración media de los viajes;2023;9.72
+314;8;Castilla - La Mancha;Duración media de los viajes;2022;9.00
+315;8;Castilla - La Mancha;Duración media de los viajes;2021;10.02
+316;8;Castilla - La Mancha;Duración media de los viajes;2020;8.10
+317;8;Castilla - La Mancha;Duración media de los viajes;2019;7.69
+318;8;Castilla - La Mancha;Duración media de los viajes;2018;8.70
+319;8;Castilla - La Mancha;Duración media de los viajes;2017;10.76
+320;8;Castilla - La Mancha;Duración media de los viajes;2016;8.11
+321;9;Cataluña;Gasto total;2025;24813.82
+322;9;Cataluña;Gasto total;2024;23750.49
+323;9;Cataluña;Gasto total;2023;21248.17
+324;9;Cataluña;Gasto total;2022;16478.61
+325;9;Cataluña;Gasto total;2021;5523.36
+326;9;Cataluña;Gasto total;2020;3653.18
+327;9;Cataluña;Gasto total;2019;21318.75
+328;9;Cataluña;Gasto total;2018;20477.77
+329;9;Cataluña;Gasto total;2017;19224.09
+330;9;Cataluña;Gasto total;2016;17466.80
+331;9;Cataluña;Gasto medio por persona;2025;1238.00
+332;9;Cataluña;Gasto medio por persona;2024;1191.00
+333;9;Cataluña;Gasto medio por persona;2023;1169.00
+334;9;Cataluña;Gasto medio por persona;2022;1110.00
+335;9;Cataluña;Gasto medio por persona;2021;954.00
+336;9;Cataluña;Gasto medio por persona;2020;944.00
+337;9;Cataluña;Gasto medio por persona;2019;1100.00
+338;9;Cataluña;Gasto medio por persona;2018;1067.00
+339;9;Cataluña;Gasto medio por persona;2017;1006.00
+340;9;Cataluña;Gasto medio por persona;2016;963.00
+341;9;Cataluña;Gasto medio diario por persona;2025;221.00
+342;9;Cataluña;Gasto medio diario por persona;2024;212.00
+343;9;Cataluña;Gasto medio diario por persona;2023;209.00
+344;9;Cataluña;Gasto medio diario por persona;2022;188.00
+345;9;Cataluña;Gasto medio diario por persona;2021;154.00
+346;9;Cataluña;Gasto medio diario por persona;2020;160.00
+347;9;Cataluña;Gasto medio diario por persona;2019;197.00
+348;9;Cataluña;Gasto medio diario por persona;2018;185.00
+349;9;Cataluña;Gasto medio diario por persona;2017;169.00
+350;9;Cataluña;Gasto medio diario por persona;2016;162.00
+351;9;Cataluña;Duración media de los viajes;2025;5.59
+352;9;Cataluña;Duración media de los viajes;2024;5.63
+353;9;Cataluña;Duración media de los viajes;2023;5.58
+354;9;Cataluña;Duración media de los viajes;2022;5.91
+355;9;Cataluña;Duración media de los viajes;2021;6.19
+356;9;Cataluña;Duración media de los viajes;2020;5.92
+357;9;Cataluña;Duración media de los viajes;2019;5.58
+358;9;Cataluña;Duración media de los viajes;2018;5.76
+359;9;Cataluña;Duración media de los viajes;2017;5.96
+360;9;Cataluña;Duración media de los viajes;2016;5.93
+725;19;Melilla;Gasto total;2021;8.96
+361;10;Comunitat Valenciana;Gasto total;2025;16032.76
+362;10;Comunitat Valenciana;Gasto total;2024;15123.74
+363;10;Comunitat Valenciana;Gasto total;2023;12511.93
+364;10;Comunitat Valenciana;Gasto total;2022;10103.66
+365;10;Comunitat Valenciana;Gasto total;2021;4372.35
+366;10;Comunitat Valenciana;Gasto total;2020;2470.48
+367;10;Comunitat Valenciana;Gasto total;2019;9553.06
+368;10;Comunitat Valenciana;Gasto total;2018;8919.99
+369;10;Comunitat Valenciana;Gasto total;2017;8528.83
+370;10;Comunitat Valenciana;Gasto total;2016;7437.32
+371;10;Comunitat Valenciana;Gasto medio por persona;2025;1292.00
+372;10;Comunitat Valenciana;Gasto medio por persona;2024;1269.00
+373;10;Comunitat Valenciana;Gasto medio por persona;2023;1195.00
+374;10;Comunitat Valenciana;Gasto medio por persona;2022;1173.00
+375;10;Comunitat Valenciana;Gasto medio por persona;2021;1088.00
+376;10;Comunitat Valenciana;Gasto medio por persona;2020;972.00
+377;10;Comunitat Valenciana;Gasto medio por persona;2019;1002.00
+378;10;Comunitat Valenciana;Gasto medio por persona;2018;969.00
+379;10;Comunitat Valenciana;Gasto medio por persona;2017;956.00
+380;10;Comunitat Valenciana;Gasto medio por persona;2016;962.00
+381;10;Comunitat Valenciana;Gasto medio diario por persona;2025;140.00
+382;10;Comunitat Valenciana;Gasto medio diario por persona;2024;132.00
+383;10;Comunitat Valenciana;Gasto medio diario por persona;2023;127.00
+384;10;Comunitat Valenciana;Gasto medio diario por persona;2022;119.00
+385;10;Comunitat Valenciana;Gasto medio diario por persona;2021;97.00
+386;10;Comunitat Valenciana;Gasto medio diario por persona;2020;95.00
+387;10;Comunitat Valenciana;Gasto medio diario por persona;2019;108.00
+388;10;Comunitat Valenciana;Gasto medio diario por persona;2018;98.00
+389;10;Comunitat Valenciana;Gasto medio diario por persona;2017;96.00
+390;10;Comunitat Valenciana;Gasto medio diario por persona;2016;91.00
+391;10;Comunitat Valenciana;Duración media de los viajes;2025;9.22
+392;10;Comunitat Valenciana;Duración media de los viajes;2024;9.61
+393;10;Comunitat Valenciana;Duración media de los viajes;2023;9.42
+394;10;Comunitat Valenciana;Duración media de los viajes;2022;9.89
+395;10;Comunitat Valenciana;Duración media de los viajes;2021;11.18
+396;10;Comunitat Valenciana;Duración media de los viajes;2020;10.24
+397;10;Comunitat Valenciana;Duración media de los viajes;2019;9.28
+398;10;Comunitat Valenciana;Duración media de los viajes;2018;9.93
+399;10;Comunitat Valenciana;Duración media de los viajes;2017;9.99
+400;10;Comunitat Valenciana;Duración media de los viajes;2016;10.57
+401;11;Extremadura;Gasto total;2025;173.72
+402;11;Extremadura;Gasto total;2024;171.01
+403;11;Extremadura;Gasto total;2023;171.45
+404;11;Extremadura;Gasto total;2022;171.13
+405;11;Extremadura;Gasto total;2021;81.34
+406;11;Extremadura;Gasto total;2020;52.82
+407;11;Extremadura;Gasto total;2019;273.85
+408;11;Extremadura;Gasto total;2018;221.71
+409;11;Extremadura;Gasto total;2017;114.04
+410;11;Extremadura;Gasto total;2016;95.64
+411;11;Extremadura;Gasto medio por persona;2025;863.00
+412;11;Extremadura;Gasto medio por persona;2024;712.00
+413;11;Extremadura;Gasto medio por persona;2023;612.00
+414;11;Extremadura;Gasto medio por persona;2022;536.00
+415;11;Extremadura;Gasto medio por persona;2021;372.00
+416;11;Extremadura;Gasto medio por persona;2020;338.00
+417;11;Extremadura;Gasto medio por persona;2019;583.00
+418;11;Extremadura;Gasto medio por persona;2018;473.00
+419;11;Extremadura;Gasto medio por persona;2017;423.00
+420;11;Extremadura;Gasto medio por persona;2016;452.00
+421;11;Extremadura;Gasto medio diario por persona;2025;177.00
+422;11;Extremadura;Gasto medio diario por persona;2024;123.00
+423;11;Extremadura;Gasto medio diario por persona;2023;125.00
+424;11;Extremadura;Gasto medio diario por persona;2022;89.00
+425;11;Extremadura;Gasto medio diario por persona;2021;89.00
+426;11;Extremadura;Gasto medio diario por persona;2020;80.00
+427;11;Extremadura;Gasto medio diario por persona;2019;94.00
+428;11;Extremadura;Gasto medio diario por persona;2018;115.00
+429;11;Extremadura;Gasto medio diario por persona;2017;107.00
+430;11;Extremadura;Gasto medio diario por persona;2016;83.00
+431;11;Extremadura;Duración media de los viajes;2025;4.87
+432;11;Extremadura;Duración media de los viajes;2024;5.78
+433;11;Extremadura;Duración media de los viajes;2023;4.91
+434;11;Extremadura;Duración media de los viajes;2022;6.05
+435;11;Extremadura;Duración media de los viajes;2021;4.17
+436;11;Extremadura;Duración media de los viajes;2020;4.23
+437;11;Extremadura;Duración media de los viajes;2019;6.22
+438;11;Extremadura;Duración media de los viajes;2018;4.11
+439;11;Extremadura;Duración media de los viajes;2017;3.96
+440;11;Extremadura;Duración media de los viajes;2016;5.47
+441;12;Galicia;Gasto total;2025;2451.55
+442;12;Galicia;Gasto total;2024;2667.25
+443;12;Galicia;Gasto total;2023;2072.03
+444;12;Galicia;Gasto total;2022;1498.26
+445;12;Galicia;Gasto total;2021;703.45
+446;12;Galicia;Gasto total;2020;411.48
+447;12;Galicia;Gasto total;2019;1531.90
+448;12;Galicia;Gasto total;2018;1685.94
+449;12;Galicia;Gasto total;2017;1210.28
+450;12;Galicia;Gasto total;2016;835.71
+451;12;Galicia;Gasto medio por persona;2025;1296.00
+452;12;Galicia;Gasto medio por persona;2024;1455.00
+453;12;Galicia;Gasto medio por persona;2023;1281.00
+454;12;Galicia;Gasto medio por persona;2022;1178.00
+455;12;Galicia;Gasto medio por persona;2021;911.00
+456;12;Galicia;Gasto medio por persona;2020;762.00
+457;12;Galicia;Gasto medio por persona;2019;943.00
+458;12;Galicia;Gasto medio por persona;2018;1115.00
+459;12;Galicia;Gasto medio por persona;2017;1037.00
+460;12;Galicia;Gasto medio por persona;2016;982.00
+461;12;Galicia;Gasto medio diario por persona;2025;151.00
+462;12;Galicia;Gasto medio diario por persona;2024;165.00
+463;12;Galicia;Gasto medio diario por persona;2023;146.00
+464;12;Galicia;Gasto medio diario por persona;2022;125.00
+465;12;Galicia;Gasto medio diario por persona;2021;93.00
+466;12;Galicia;Gasto medio diario por persona;2020;87.00
+467;12;Galicia;Gasto medio diario por persona;2019;111.00
+468;12;Galicia;Gasto medio diario por persona;2018;110.00
+469;12;Galicia;Gasto medio diario por persona;2017;105.00
+470;12;Galicia;Gasto medio diario por persona;2016;97.00
+471;12;Galicia;Duración media de los viajes;2025;8.59
+472;12;Galicia;Duración media de los viajes;2024;8.83
+473;12;Galicia;Duración media de los viajes;2023;8.78
+474;12;Galicia;Duración media de los viajes;2022;9.45
+475;12;Galicia;Duración media de los viajes;2021;9.77
+476;12;Galicia;Duración media de los viajes;2020;8.71
+477;12;Galicia;Duración media de los viajes;2019;8.51
+478;12;Galicia;Duración media de los viajes;2018;10.15
+479;12;Galicia;Duración media de los viajes;2017;9.89
+480;12;Galicia;Duración media de los viajes;2016;10.14
+481;13;Madrid, Comunidad de;Gasto total;2025;17938.05
+482;13;Madrid, Comunidad de;Gasto total;2024;16107.80
+483;13;Madrid, Comunidad de;Gasto total;2023;13329.68
+484;13;Madrid, Comunidad de;Gasto total;2022;9630.12
+485;13;Madrid, Comunidad de;Gasto total;2021;3112.63
+486;13;Madrid, Comunidad de;Gasto total;2020;2312.51
+487;13;Madrid, Comunidad de;Gasto total;2019;10453.73
+488;13;Madrid, Comunidad de;Gasto total;2018;9282.85
+489;13;Madrid, Comunidad de;Gasto total;2017;8855.09
+490;13;Madrid, Comunidad de;Gasto total;2016;7597.41
+491;13;Madrid, Comunidad de;Gasto medio por persona;2025;1965.00
+492;13;Madrid, Comunidad de;Gasto medio por persona;2024;1825.00
+493;13;Madrid, Comunidad de;Gasto medio por persona;2023;1699.00
+494;13;Madrid, Comunidad de;Gasto medio por persona;2022;1592.00
+495;13;Madrid, Comunidad de;Gasto medio por persona;2021;1430.00
+496;13;Madrid, Comunidad de;Gasto medio por persona;2020;1346.00
+497;13;Madrid, Comunidad de;Gasto medio por persona;2019;1368.00
+498;13;Madrid, Comunidad de;Gasto medio por persona;2018;1300.00
+499;13;Madrid, Comunidad de;Gasto medio por persona;2017;1322.00
+500;13;Madrid, Comunidad de;Gasto medio por persona;2016;1314.00
+501;13;Madrid, Comunidad de;Gasto medio diario por persona;2025;306.00
+502;13;Madrid, Comunidad de;Gasto medio diario por persona;2024;306.00
+503;13;Madrid, Comunidad de;Gasto medio diario por persona;2023;293.00
+504;13;Madrid, Comunidad de;Gasto medio diario por persona;2022;281.00
+505;13;Madrid, Comunidad de;Gasto medio diario por persona;2021;239.00
+506;13;Madrid, Comunidad de;Gasto medio diario por persona;2020;232.00
+507;13;Madrid, Comunidad de;Gasto medio diario por persona;2019;271.00
+508;13;Madrid, Comunidad de;Gasto medio diario por persona;2018;243.00
+509;13;Madrid, Comunidad de;Gasto medio diario por persona;2017;219.00
+510;13;Madrid, Comunidad de;Gasto medio diario por persona;2016;207.00
+511;13;Madrid, Comunidad de;Duración media de los viajes;2025;6.43
+512;13;Madrid, Comunidad de;Duración media de los viajes;2024;5.96
+513;13;Madrid, Comunidad de;Duración media de los viajes;2023;5.80
+514;13;Madrid, Comunidad de;Duración media de los viajes;2022;5.66
+515;13;Madrid, Comunidad de;Duración media de los viajes;2021;5.99
+516;13;Madrid, Comunidad de;Duración media de los viajes;2020;5.80
+517;13;Madrid, Comunidad de;Duración media de los viajes;2019;5.05
+518;13;Madrid, Comunidad de;Duración media de los viajes;2018;5.35
+519;13;Madrid, Comunidad de;Duración media de los viajes;2017;6.02
+520;13;Madrid, Comunidad de;Duración media de los viajes;2016;6.33
+521;14;Murcia, Región de;Gasto total;2025;1718.38
+522;14;Murcia, Región de;Gasto total;2024;1583.72
+523;14;Murcia, Región de;Gasto total;2023;1243.38
+524;14;Murcia, Región de;Gasto total;2022;1000.95
+525;14;Murcia, Región de;Gasto total;2021;414.16
+526;14;Murcia, Región de;Gasto total;2020;283.78
+527;14;Murcia, Región de;Gasto total;2019;1113.86
+528;14;Murcia, Región de;Gasto total;2018;1199.95
+529;14;Murcia, Región de;Gasto total;2017;1026.58
+530;14;Murcia, Región de;Gasto total;2016;903.31
+531;14;Murcia, Región de;Gasto medio por persona;2025;1418.00
+532;14;Murcia, Región de;Gasto medio por persona;2024;1384.00
+533;14;Murcia, Región de;Gasto medio por persona;2023;1273.00
+534;14;Murcia, Región de;Gasto medio por persona;2022;1219.00
+535;14;Murcia, Región de;Gasto medio por persona;2021;1075.00
+536;14;Murcia, Región de;Gasto medio por persona;2020;1016.00
+537;14;Murcia, Región de;Gasto medio por persona;2019;1073.00
+538;14;Murcia, Región de;Gasto medio por persona;2018;1058.00
+539;14;Murcia, Región de;Gasto medio por persona;2017;1007.00
+540;14;Murcia, Región de;Gasto medio por persona;2016;961.00
+541;14;Murcia, Región de;Gasto medio diario por persona;2025;123.00
+542;14;Murcia, Región de;Gasto medio diario por persona;2024;109.00
+543;14;Murcia, Región de;Gasto medio diario por persona;2023;108.00
+544;14;Murcia, Región de;Gasto medio diario por persona;2022;99.00
+545;14;Murcia, Región de;Gasto medio diario por persona;2021;82.00
+546;14;Murcia, Región de;Gasto medio diario por persona;2020;82.00
+547;14;Murcia, Región de;Gasto medio diario por persona;2019;93.00
+548;14;Murcia, Región de;Gasto medio diario por persona;2018;87.00
+549;14;Murcia, Región de;Gasto medio diario por persona;2017;84.00
+550;14;Murcia, Región de;Gasto medio diario por persona;2016;76.00
+551;14;Murcia, Región de;Duración media de los viajes;2025;11.50
+552;14;Murcia, Región de;Duración media de los viajes;2024;12.73
+553;14;Murcia, Región de;Duración media de los viajes;2023;11.80
+554;14;Murcia, Región de;Duración media de los viajes;2022;12.28
+555;14;Murcia, Región de;Duración media de los viajes;2021;13.13
+556;14;Murcia, Región de;Duración media de los viajes;2020;12.32
+557;14;Murcia, Región de;Duración media de los viajes;2019;11.60
+558;14;Murcia, Región de;Duración media de los viajes;2018;12.21
+559;14;Murcia, Región de;Duración media de los viajes;2017;11.97
+560;14;Murcia, Región de;Duración media de los viajes;2016;12.70
+561;15;Navarra, Comunidad Foral de;Gasto total;2025;461.69
+562;15;Navarra, Comunidad Foral de;Gasto total;2024;400.06
+563;15;Navarra, Comunidad Foral de;Gasto total;2023;299.76
+564;15;Navarra, Comunidad Foral de;Gasto total;2022;176.06
+565;15;Navarra, Comunidad Foral de;Gasto total;2021;66.61
+566;15;Navarra, Comunidad Foral de;Gasto total;2020;97.86
+567;15;Navarra, Comunidad Foral de;Gasto total;2019;261.42
+568;15;Navarra, Comunidad Foral de;Gasto total;2018;219.38
+569;15;Navarra, Comunidad Foral de;Gasto total;2017;187.17
+570;15;Navarra, Comunidad Foral de;Gasto total;2016;191.90
+571;15;Navarra, Comunidad Foral de;Gasto medio por persona;2025;880.00
+572;15;Navarra, Comunidad Foral de;Gasto medio por persona;2024;780.00
+573;15;Navarra, Comunidad Foral de;Gasto medio por persona;2023;824.00
+574;15;Navarra, Comunidad Foral de;Gasto medio por persona;2022;644.00
+575;15;Navarra, Comunidad Foral de;Gasto medio por persona;2021;539.00
+576;15;Navarra, Comunidad Foral de;Gasto medio por persona;2020;669.00
+577;15;Navarra, Comunidad Foral de;Gasto medio por persona;2019;630.00
+578;15;Navarra, Comunidad Foral de;Gasto medio por persona;2018;678.00
+579;15;Navarra, Comunidad Foral de;Gasto medio por persona;2017;623.00
+580;15;Navarra, Comunidad Foral de;Gasto medio por persona;2016;676.00
+581;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2025;171.00
+582;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2024;166.00
+583;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2023;164.00
+584;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2022;134.00
+585;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2021;104.00
+586;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2020;132.00
+587;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2019;126.00
+588;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2018;116.00
+589;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2017;118.00
+590;15;Navarra, Comunidad Foral de;Gasto medio diario por persona;2016;109.00
+591;15;Navarra, Comunidad Foral de;Duración media de los viajes;2025;5.16
+592;15;Navarra, Comunidad Foral de;Duración media de los viajes;2024;4.70
+593;15;Navarra, Comunidad Foral de;Duración media de los viajes;2023;5.01
+594;15;Navarra, Comunidad Foral de;Duración media de los viajes;2022;4.80
+595;15;Navarra, Comunidad Foral de;Duración media de los viajes;2021;5.19
+596;15;Navarra, Comunidad Foral de;Duración media de los viajes;2020;5.07
+597;15;Navarra, Comunidad Foral de;Duración media de los viajes;2019;4.99
+598;15;Navarra, Comunidad Foral de;Duración media de los viajes;2018;5.82
+599;15;Navarra, Comunidad Foral de;Duración media de los viajes;2017;5.26
+600;15;Navarra, Comunidad Foral de;Duración media de los viajes;2016;6.22
+601;16;País Vasco;Gasto total;2025;2404.09
+602;16;País Vasco;Gasto total;2024;2058.91
+603;16;País Vasco;Gasto total;2023;2053.29
+604;16;País Vasco;Gasto total;2022;1470.68
+605;16;País Vasco;Gasto total;2021;499.44
+606;16;País Vasco;Gasto total;2020;361.19
+607;16;País Vasco;Gasto total;2019;1289.79
+608;16;País Vasco;Gasto total;2018;1224.87
+609;16;País Vasco;Gasto total;2017;1654.23
+610;16;País Vasco;Gasto total;2016;1555.97
+611;16;País Vasco;Gasto medio por persona;2025;1130.00
+612;16;País Vasco;Gasto medio por persona;2024;958.00
+613;16;País Vasco;Gasto medio por persona;2023;1026.00
+614;16;País Vasco;Gasto medio por persona;2022;952.00
+615;16;País Vasco;Gasto medio por persona;2021;747.00
+616;16;País Vasco;Gasto medio por persona;2020;685.00
+617;16;País Vasco;Gasto medio por persona;2019;800.00
+618;16;País Vasco;Gasto medio por persona;2018;789.00
+619;16;País Vasco;Gasto medio por persona;2017;870.00
+620;16;País Vasco;Gasto medio por persona;2016;895.00
+621;16;País Vasco;Gasto medio diario por persona;2025;249.00
+622;16;País Vasco;Gasto medio diario por persona;2024;221.00
+623;16;País Vasco;Gasto medio diario por persona;2023;233.00
+624;16;País Vasco;Gasto medio diario por persona;2022;214.00
+625;16;País Vasco;Gasto medio diario por persona;2021;184.00
+626;16;País Vasco;Gasto medio diario por persona;2020;172.00
+627;16;País Vasco;Gasto medio diario por persona;2019;195.00
+628;16;País Vasco;Gasto medio diario por persona;2018;164.00
+629;16;País Vasco;Gasto medio diario por persona;2017;183.00
+630;16;País Vasco;Gasto medio diario por persona;2016;163.00
+631;16;País Vasco;Duración media de los viajes;2025;4.54
+632;16;País Vasco;Duración media de los viajes;2024;4.34
+633;16;País Vasco;Duración media de los viajes;2023;4.41
+634;16;País Vasco;Duración media de los viajes;2022;4.44
+635;16;País Vasco;Duración media de los viajes;2021;4.05
+636;16;País Vasco;Duración media de los viajes;2020;3.98
+637;16;País Vasco;Duración media de los viajes;2019;4.11
+638;16;País Vasco;Duración media de los viajes;2018;4.81
+639;16;País Vasco;Duración media de los viajes;2017;4.76
+640;16;País Vasco;Duración media de los viajes;2016;5.49
+641;17;Rioja, La;Gasto total;2025;160.42
+642;17;Rioja, La;Gasto total;2024;105.76
+643;17;Rioja, La;Gasto total;2023;86.73
+644;17;Rioja, La;Gasto total;2022;108.60
+645;17;Rioja, La;Gasto total;2021;42.03
+647;17;Rioja, La;Gasto total;2019;98.20
+648;17;Rioja, La;Gasto total;2018;101.13
+649;17;Rioja, La;Gasto total;2017;101.96
+650;17;Rioja, La;Gasto total;2016;93.09
+651;17;Rioja, La;Gasto medio por persona;2025;1047.00
+652;17;Rioja, La;Gasto medio por persona;2024;859.00
+653;17;Rioja, La;Gasto medio por persona;2023;734.00
+654;17;Rioja, La;Gasto medio por persona;2022;966.00
+655;17;Rioja, La;Gasto medio por persona;2021;877.00
+657;17;Rioja, La;Gasto medio por persona;2019;704.00
+658;17;Rioja, La;Gasto medio por persona;2018;708.00
+659;17;Rioja, La;Gasto medio por persona;2017;778.00
+660;17;Rioja, La;Gasto medio por persona;2016;651.00
+661;17;Rioja, La;Gasto medio diario por persona;2025;167.00
+662;17;Rioja, La;Gasto medio diario por persona;2024;143.00
+663;17;Rioja, La;Gasto medio diario por persona;2023;132.00
+664;17;Rioja, La;Gasto medio diario por persona;2022;134.00
+665;17;Rioja, La;Gasto medio diario por persona;2021;117.00
+667;17;Rioja, La;Gasto medio diario por persona;2019;103.00
+668;17;Rioja, La;Gasto medio diario por persona;2018;104.00
+669;17;Rioja, La;Gasto medio diario por persona;2017;99.00
+670;17;Rioja, La;Gasto medio diario por persona;2016;99.00
+671;17;Rioja, La;Duración media de los viajes;2025;6.27
+672;17;Rioja, La;Duración media de los viajes;2024;6.01
+673;17;Rioja, La;Duración media de los viajes;2023;5.56
+674;17;Rioja, La;Duración media de los viajes;2022;7.19
+675;17;Rioja, La;Duración media de los viajes;2021;7.51
+677;17;Rioja, La;Duración media de los viajes;2019;6.81
+678;17;Rioja, La;Duración media de los viajes;2018;6.78
+679;17;Rioja, La;Duración media de los viajes;2017;7.84
+680;17;Rioja, La;Duración media de los viajes;2016;6.59
+681;18;Ceuta;Gasto total;2025;71.51
+682;18;Ceuta;Gasto total;2024;67.11
+683;18;Ceuta;Gasto total;2023;43.92
+684;18;Ceuta;Gasto total;2022;33.28
+685;18;Ceuta;Gasto total;2021;3.00
+691;18;Ceuta;Gasto medio por persona;2025;1145.00
+692;18;Ceuta;Gasto medio por persona;2024;1048.00
+693;18;Ceuta;Gasto medio por persona;2023;943.00
+694;18;Ceuta;Gasto medio por persona;2022;926.00
+695;18;Ceuta;Gasto medio por persona;2021;760.00
+701;18;Ceuta;Gasto medio diario por persona;2025;143.00
+702;18;Ceuta;Gasto medio diario por persona;2024;118.00
+703;18;Ceuta;Gasto medio diario por persona;2023;120.00
+704;18;Ceuta;Gasto medio diario por persona;2022;126.00
+705;18;Ceuta;Gasto medio diario por persona;2021;58.00
+711;18;Ceuta;Duración media de los viajes;2025;8.00
+712;18;Ceuta;Duración media de los viajes;2024;8.91
+713;18;Ceuta;Duración media de los viajes;2023;7.87
+714;18;Ceuta;Duración media de los viajes;2022;7.32
+715;18;Ceuta;Duración media de los viajes;2021;13.10
+721;19;Melilla;Gasto total;2025;23.62
+722;19;Melilla;Gasto total;2024;27.78
+723;19;Melilla;Gasto total;2023;24.09
+731;19;Melilla;Gasto medio por persona;2025;964.00
+732;19;Melilla;Gasto medio por persona;2024;959.00
+733;19;Melilla;Gasto medio por persona;2023;944.00
+734;19;Melilla;Gasto medio por persona;2022;863.00
+735;19;Melilla;Gasto medio por persona;2021;1005.00
+741;19;Melilla;Gasto medio diario por persona;2025;95.00
+742;19;Melilla;Gasto medio diario por persona;2024;107.00
+743;19;Melilla;Gasto medio diario por persona;2023;107.00
+744;19;Melilla;Gasto medio diario por persona;2022;106.00
+745;19;Melilla;Gasto medio diario por persona;2021;92.00
+751;19;Melilla;Duración media de los viajes;2025;10.13
+752;19;Melilla;Duración media de los viajes;2024;9.00
+753;19;Melilla;Duración media de los viajes;2023;8.82
+754;19;Melilla;Duración media de los viajes;2022;8.12
+755;19;Melilla;Duración media de los viajes;2021;10.92
