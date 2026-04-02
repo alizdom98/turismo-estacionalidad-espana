@@ -24,7 +24,7 @@ Los datos provienen de cuatro encuestas del INE:
 | Enc. Ocupación | plazas_establecimientos.csv | 90.300 | Ene 2016 - Ene 2026 | Mensual |
 | Enc. Ocupación | tipos_alojamiento_CC.AA.csv | 180.600 | Ene 2016 - Ene 2026 | Mensual |
 
-- **Cobertura**: 19 CC.AA. y ciudades autónomas
+- **Cobertura**: 17 CC.AA. (las ciudades autónomas Ceuta y Melilla se excluyen del análisis por volumen turístico insuficiente en las encuestas del INE)
 - **Métricas**: Viajes, pernoctaciones, turistas, gasto (total, medio, diario), duración media, motivos, tipo de alojamiento, plazas estimadas, viajeros por residencia
 
 ## Estructura del proyecto
@@ -110,7 +110,8 @@ Limpieza: eliminación de filas con valor NULL + DROP de las 7 staging tables.
 ### Estacionalidad (Queries 1-2)
 - **Baja estacionalidad**: Canarias (CV 6.9-9.7%), País Vasco, Madrid, Extremadura
 - **Alta estacionalidad**: Baleares (CV ext 86.9%), Aragón, Asturias
-- **Clasificación**: 5 CC.AA. como "Alternativo", 5 como "Tradicional masivo", 9 como "Intermedio"
+- **Clasificación SQL (Q2)**: 5 CC.AA. como "Alternativo", 5 como "Tradicional masivo", 9 como "Intermedio" (sistema de 3 categorías basado en volumen, CV y % ocio)
+- **Clasificación DAX (dashboard)**: sistema de 4 categorías basado en CV e internacionalización — "Masivo estacional" (Andalucía, Baleares, Cataluña, C. Valenciana), "Internacional desestacionalizado" (Canarias, Madrid, País Vasco), "Estacional nacional" (Asturias, Cantabria, Galicia, Murcia, Navarra), "Alternativo nacional" (Aragón, CLM, CyL, Extremadura, Rioja)
 
 ### Motivaciones (Queries 3-5)
 - Los destinos alternativos tienen turismo diversificado: País Vasco 42.6% ocio / 13.7% negocios / 37.4% familia
