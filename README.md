@@ -420,8 +420,8 @@ RETURN IF(metrica = "Total Turistas Extranjeros" && diferencia >= 3, BLANK(), [C
 - Slicer de residencia (Total / Nacional / Extranjero) centrado en el espacio entre los dos gráficos
 
 **Página 5 — Oferta y Ocupación**
-- Gráfico de barras horizontal: tasa de ocupación rural por CC.AA. en verano 2024 (junio–agosto), filtrado a los grupos "Alternativo nacional" y "Estacional nacional"
-- Gráfico de barras horizontal: tasa de ocupación de camping por CC.AA. en verano 2024 (junio–agosto), mismo filtro de grupos
+- Gráfico de barras horizontal: tasa de ocupación de turismo rural por CC.AA. en verano 2024 (junio–agosto), mostrando todas las CC.AA. (sin filtro de clasificación)
+- Gráfico de barras horizontal: tasa de ocupación de camping por CC.AA. en verano 2024 (junio–agosto), mostrando todas las CC.AA. (sin filtro de clasificación)
 - KPI card: 79.35% — ocupación hotelera media en destinos "Masivo estacional" (verano 2024)
 - KPI card: 28.83% — ocupación rural/camping media en destinos alternativos (verano 2024)
 - Cuadro de texto: conclusión narrativa del dashboard — los destinos alternativos tienen capacidad de absorción sin colapso de infraestructura, a diferencia de los masivos que operan cerca del límite en temporada alta
@@ -463,7 +463,7 @@ RETURN IF(metrica = "Total Turistas Extranjeros" && diferencia >= 3, BLANK(), [C
 
 **Filtro de verano (junio–agosto) en Página 5**: La ocupación anual media oculta la saturación estacional. Filtrando a junio–agosto 2024 la diferencia se vuelve visible: 79% hotelero masivos vs 28% rural alternativos. Esto refuerza la narrativa central del dashboard: los destinos alternativos tienen capacidad ociosa incluso en temporada alta.
 
-**Clasificación "Estacional nacional" incluida en ocupación rural**: El grupo "Alternativo nacional" solo incluye 5 CC.AA. (País Vasco, Madrid, Navarra, Extremadura, Canarias). Se amplió a incluir "Estacional nacional" (Galicia, Cantabria, Asturias, Murcia...) porque comparten el perfil de alojamiento rural/camping aunque tengan alta estacionalidad. Sin este grupo la muestra es demasiado pequeña para representar a los destinos alternativos en su conjunto.
+**Clasificación "Estacional nacional" incluida en la KPI de ocupación rural**: El grupo "Alternativo nacional" agrupa 5 CC.AA. (Aragón, CLM, CyL, Extremadura, La Rioja). La KPI card se amplió a incluir también "Estacional nacional" (Asturias, Cantabria, Galicia, Murcia, Navarra) porque comparten el perfil de alojamiento rural/camping aunque tengan alta estacionalidad. Sin este grupo la muestra es demasiado pequeña para representar a los destinos no masivos en su conjunto.
 
 ## Tecnologías
 

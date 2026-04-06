@@ -3,7 +3,7 @@
 -- Archivo: 04_analisis.sql
 -- Descripción: Queries de análisis sobre los datos turísticos
 -- Autor: Andrés Liz Domínguez
--- Fecha: Febrero 2026
+-- Fecha: Marzo 2026
 -- ============================================================
 -- Estructura narrativa:
 --   Q1-Q2: CUÁNDO VIENEN → Estacionalidad (tema central del proyecto)
@@ -496,9 +496,9 @@ ORDER BY diferencia_pct DESC NULLS LAST;
 -- Mayor gasto extranjero por persona:
 --   Canarias 1502€, Galicia 1455€, Andalucía 1360€, CLM 1360€, Asturias 1310€
 -- Menor gasto extranjero:
---   Navarra 780€, Castilla y León 616€ → estancias más cortas
+--   Navarra 780€, Castilla y León 688€ → estancias más cortas
 -- Gasto nacional (gasto total / viajes × 1000):
---   Canarias ~255€, Baleares ~209€, Andalucía ~155€ (más modesto)
+--   Baleares ~462€, Canarias ~363€, Andalucía ~264€ (más modesto que el extranjero)
 -- CC.AA. 18 y 19 (Ceuta/Melilla) aparecen por el FULL OUTER JOIN.
 
 
@@ -603,29 +603,40 @@ gasto_ext AS (
         MAX(CASE WHEN metrica = 'Gasto medio por persona' THEN valor END) AS gasto_medio_ext
     FROM gasto_turistas_extranjeros
     GROUP BY destino, anio
+),
+con_lag AS (
+    SELECT
+        v.destino,
+        v.anio,
+        v.viajes_nacionales,
+        LAG(v.viajes_nacionales) OVER (PARTITION BY v.destino ORDER BY v.anio) AS nac_anterior,
+        t.turistas_extranjeros,
+        o.pct_ocio,
+        g.gasto_medio_ext
+    FROM viajes_nac v
+    LEFT JOIN turistas_ext t ON v.destino = t.destino AND v.anio = t.anio
+    LEFT JOIN pct_ocio o ON v.destino = o.destino AND v.anio = o.anio
+    LEFT JOIN gasto_ext g ON v.destino = g.destino AND v.anio = g.anio
+    WHERE v.destino IN (
+        'Navarra, Comunidad Foral de', 'País Vasco', 'Aragón',
+        'Galicia', 'Asturias, Principado de', 'Castilla - La Mancha',
+        'Balears, Illes', 'Canarias', 'Andalucía'
+    )
 )
 SELECT
-    v.destino,
-    v.anio,
-    v.viajes_nacionales,
-    LAG(v.viajes_nacionales) OVER (PARTITION BY v.destino ORDER BY v.anio) AS viajes_nac_anterior,
+    destino,
+    anio,
+    viajes_nacionales,
+    nac_anterior AS viajes_nac_anterior,
     ROUND(
-        (v.viajes_nacionales - LAG(v.viajes_nacionales) OVER (PARTITION BY v.destino ORDER BY v.anio))::NUMERIC
-        / NULLIF(LAG(v.viajes_nacionales) OVER (PARTITION BY v.destino ORDER BY v.anio), 0) * 100, 1
+        (viajes_nacionales - nac_anterior)::NUMERIC
+        / NULLIF(nac_anterior, 0) * 100, 1
     ) AS crecimiento_nac_pct,
-    t.turistas_extranjeros,
-    o.pct_ocio,
-    g.gasto_medio_ext
-FROM viajes_nac v
-LEFT JOIN turistas_ext t ON v.destino = t.destino AND v.anio = t.anio
-LEFT JOIN pct_ocio o ON v.destino = o.destino AND v.anio = o.anio
-LEFT JOIN gasto_ext g ON v.destino = g.destino AND v.anio = g.anio
-WHERE v.destino IN (
-    'Navarra, Comunidad Foral de', 'País Vasco', 'Aragón',
-    'Galicia', 'Asturias, Principado de', 'Castilla - La Mancha',
-    'Balears, Illes', 'Canarias', 'Andalucía'
-)
-ORDER BY v.destino, v.anio;
+    turistas_extranjeros,
+    pct_ocio,
+    gasto_medio_ext
+FROM con_lag
+ORDER BY destino, anio;
 
 -- RESULTADO (2016-2024):
 -- GALICIA - Estrella emergente:

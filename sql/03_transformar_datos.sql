@@ -3,7 +3,7 @@
 -- Archivo: 03_transformar_datos.sql
 -- Descripción: Transformación de datos staging → tablas finales
 -- Autor: Andrés Liz Domínguez
--- Fecha: Febrero 2026
+-- Fecha: Marzo 2026
 -- ============================================================
 
 -- ============================================================

@@ -3,7 +3,7 @@
 -- Archivo: 01_crear_tablas.sql
 -- Descripción: Creación de la base de datos y las tablas
 -- Autor: Andrés Liz Domínguez
--- Fecha: Febrero 2026
+-- Fecha: Marzo 2026
 -- ============================================================
 
 -- PASO 1: Crear la base de datos

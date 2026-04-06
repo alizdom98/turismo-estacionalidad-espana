@@ -3,7 +3,7 @@
 -- Archivo: 02_importar_datos.sql
 -- Descripción: Importación de los CSV del INE a PostgreSQL
 -- Autor: Andrés Liz Domínguez
--- Fecha: Febrero 2026
+-- Fecha: Marzo 2026
 -- ============================================================
 
 -- ============================================================
